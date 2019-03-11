@@ -1,5 +1,4 @@
-# Python-starter-training-01
-## 透過設計美學讓你有效學習程式語言
+# 【Star Rocket】輕鬆上手 Python 程式語言－透過設計美學讓你有效學習程式語言
 Python 就像是一種電腦講的外星語言，用太過複雜的方式甚至是錯誤的方式學習，都有可能影響你對 Python 的認知，甚至是學習慾望。本次【Star Rocket】與【[Taiwan Code School](https://www.taiwancodeschool.com/)】合作，將生硬古板的程式語言，透過設計美學，變成淺顯易懂的圖畫，用有趣生動的圖像來分享 Python 基礎的點點滴滴，就讓我們一起輕鬆學習 Python 吧！
 
 ## 適合參加條件
