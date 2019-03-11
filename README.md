@@ -18,7 +18,7 @@ Python 就像是一種電腦講的外星語言，用太過複雜的方式甚至�
 * 知道如何 Debug
 ## 課程內容
 1. **Pycharm 介紹**：Python 工具 Pycharm 安裝與介面介紹（安裝說明見下方連結）
-2. **Python 的基礎**：使用 Jupyter Notebook、Pycharm 帶領各位進入 Python 世界，快速上手 Python 基礎，包括變數、字串 string。在這裡你將學會如何做出自動洗牌機。
+2. **Python 的基礎**：使用 [Jupyter Notebook](https://jupyter.org/)、[Pycharm](https://www.jetbrains.com/pycharm/) 帶領各位進入 Python 世界，快速上手 Python 基礎，包括變數、字串 string。在這裡你將學會如何做出自動洗牌機。
 
     * 週記一：【Print 的用法】
     * 週記二：【基礎變數應用】變數的盒子
